@@ -1,0 +1,6 @@
+clone
+add [filename]
+add .
+status 
+commit -m"message"
+push
